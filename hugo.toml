@@ -11,52 +11,52 @@ hasCJKLanguage = true
 enableGitInfo = true # 若仓库是 git，会用于显示更新时间
 
 [outputs]
-home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS", "JSON"]
 
 [params]
-author = "你的名字"
-description = "个人博客，记录技术与生活"
-keywords = ["博客","技术","随笔"]
-defaultTheme = "auto"
-disableThemeToggle = false
-ShowReadingTime = true
-ShowShareButtons = true
-ShowPostNavLinks = true
-ShowBreadCrumbs = true
-ShowCodeCopyButtons = true
-ShowRssButtonInSectionTermList = true
-ShowAllPagesInArchive = true
-ShowToc = true
-TocOpen = false
-env = "production"
-dateFormat = "2006-01-02"
-mainSections = ["posts"]
-comments = false
+  author = "你的名字"
+  description = "个人博客，记录技术与生活"
+  keywords = ["博客","技术","随笔"]
+  defaultTheme = "auto"
+  disableThemeToggle = false
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowRssButtonInSectionTermList = true
+  ShowAllPagesInArchive = true
+  ShowToc = true
+  TocOpen = false
+  env = "production"
+  dateFormat = "2006-01-02"
+  mainSections = ["posts"]
+  comments = false
 
 [params.assets]
-favicon = "favicon.ico"
+  favicon = "favicon.ico"
 
 [params.profileMode]
-enabled = true
-title = "我的小站"
-subtitle = "记录、思考、分享"
-imageUrl = "images/profile.jpg"
-imageTitle = "头像"
-buttons = [
-	{ name = "文章", url = "posts/" },
-	{ name = "关于我", url = "about/" }
-]
+  enabled = true
+  title = "我的小站"
+  subtitle = "记录、思考、分享"
+  imageUrl = "images/profile.jpg"
+  imageTitle = "头像"
+  buttons = [
+    { name = "文章", url = "posts/" },
+    { name = "关于我", url = "about/" }
+  ]
 
 [params.social]
-github = "your_github"
-twitter = "your_twitter"
-linkedin = "your_linkedin"
-email = "you@example.com"
+  github = "your_github"
+  twitter = "your_twitter"
+  linkedin = "your_linkedin"
+  email = "you@example.com"
 
 [params.label]
-text = "我的博客"
-icon = "images/logo.png"
-iconHeight = 32
+  text = "我的博客"
+  icon = "images/logo.png"
+  iconHeight = 32
 
 [markup]
 	[markup.goldmark]
@@ -94,4 +94,4 @@ iconHeight = 32
 
 # RSS Feed 自定义（可选）
 [params.rss]
-limit = 50
+  limit = 50
