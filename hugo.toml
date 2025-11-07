@@ -2,7 +2,7 @@
 baseURL = "https://example.com/" # 生产环境网址（部署后修改）
 languageCode = "zh-cn"
 title = "我的博客"
-paginate = 10
+pagination.pagerSize = 10
 theme = ["PaperMod"]
 
 defaultContentLanguage = "zh"
