@@ -1,5 +1,5 @@
 # hugo.toml 正确配置示例
-baseURL = "https://example.com/" # 生产环境网址（部署后修改）
+baseURL = "https://minghuanblog.netlify.app/" # 生产环境网址（部署后修改）
 languageCode = "zh-cn"
 title = "我的博客"
 pagination.pagerSize = 10
@@ -14,7 +14,7 @@ enableGitInfo = true # 若仓库是 git，会用于显示更新时间
   home = ["HTML", "RSS", "JSON"]
 
 [params]
-  author = "你的名字"
+  author = "Minghuan"
   description = "个人博客，记录技术与生活"
   keywords = ["博客","技术","随笔"]
   defaultTheme = "auto"
