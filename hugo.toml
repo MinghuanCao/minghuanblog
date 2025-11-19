@@ -1,7 +1,7 @@
 # hugo.toml 正确配置示例
-baseURL = "https://minghuanblog.netlify.app/" # 生产环境网址（部署后修改）
+baseURL = "https://www.cminghuan.com/" # 生产环境网址（部署后修改）
 languageCode = "zh-cn"
-title = "我的博客"
+title = "CMH的博客"
 pagination.pagerSize = 10
 theme = ["PaperMod"]
 
@@ -31,7 +31,7 @@ enableGitInfo = true # 若仓库是 git，会用于显示更新时间
   env = "production"
   dateFormat = "2006-01-02"
   mainSections = ["posts"]
-  comments = false
+  comments = true
 
 [params.assets]
   favicon = "favicon.ico"
@@ -50,8 +50,8 @@ enableGitInfo = true # 若仓库是 git，会用于显示更新时间
 [params.social]
   github = "your_github"
   twitter = "your_twitter"
-  linkedin = "your_linkedin"
-  email = "you@example.com"
+  linkedin = "https://www.linkedin.com/in/minghuancao/"
+  email = "cminghuan@gmail.com"
 
 [params.label]
   text = "我的博客"
