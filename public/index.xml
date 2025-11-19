@@ -8,6 +8,13 @@
     <language>zh-cn</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Singapore</title>
+      <link>http://localhost:1313/posts/singapore/</link>
+      <pubDate>Tue, 18 Nov 2025 05:15:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/singapore/</guid>
+      <description>&lt;p&gt;在巴厘岛的倒数第二晚，我和两位当晚就要飞走的同学又聚了一次。其中一个飞回上海，我们就在他俩的房间里碰头，同行的还有一位中学时的寝室室友。看他最后整理行李箱时，我躺在一旁的摇椅上，随口叹了一句：“当年我还是太幼稚了。”&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Bali</title>
       <link>http://localhost:1313/posts/bali/</link>
       <pubDate>Thu, 06 Nov 2025 14:33:00 +0800</pubDate>
