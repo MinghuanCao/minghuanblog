@@ -2,24 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on CMH的博客</title>
-    <link>https://www.cminghuan.com/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on CMH的博客</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 18 Nov 2025 22:43:13 -0800</lastBuildDate>
-    <atom:link href="https://www.cminghuan.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Jan 2026 00:51:23 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EndOf2025</title>
+      <link>http://localhost:1313/posts/endof2025/</link>
+      <pubDate>Thu, 01 Jan 2026 00:51:23 -0800</pubDate>
+      <guid>http://localhost:1313/posts/endof2025/</guid>
+      <description>&lt;h2 id=&#34;上半年&#34;&gt;上半年&lt;/h2&gt;
+&lt;p&gt;前几天我在自媒体上看到有人分享一个 prompt，用来做自我的年终总结，我也跟着试了试：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“我每年元旦都会给下一年的自己写一封邮件。 在这封信里，我会 100%对自己诚实，记录这一年里真实的收获、成长、成就、判断、思考、困局、犹豫和未解决的问题。同时，我也会认真思考下一年，在人生各个重要的重要维度上，我真正想要的是什么，以及我可能需要面对的选择与代价。 我也希望你能以一个长期旁观者、冷静、非常毒鸡汤的视角。不要鼓励、不回避尖锐问题的，能够真正提醒我一些我容易忽略、回避或自我合理化的地方。
+希望你是客观描述和评价的。帮我回忆尽可能更多的事实和细节。”&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Singapore</title>
-      <link>https://www.cminghuan.com/posts/singapore/</link>
+      <link>http://localhost:1313/posts/singapore/</link>
       <pubDate>Tue, 18 Nov 2025 05:15:00 -0700</pubDate>
-      <guid>https://www.cminghuan.com/posts/singapore/</guid>
+      <guid>http://localhost:1313/posts/singapore/</guid>
       <description>&lt;p&gt;在巴厘岛的倒数第二晚，我和两位当晚就要飞走的同学又聚了一次。其中一个飞回上海，我们就在他俩的房间里碰头，同行的还有一位中学时的寝室室友。看他最后整理行李箱时，我躺在一旁的摇椅上，随口叹了一句：“当年我还是太幼稚了。”&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bali</title>
-      <link>https://www.cminghuan.com/posts/bali/</link>
+      <link>http://localhost:1313/posts/bali/</link>
       <pubDate>Thu, 06 Nov 2025 14:33:00 +0800</pubDate>
-      <guid>https://www.cminghuan.com/posts/bali/</guid>
+      <guid>http://localhost:1313/posts/bali/</guid>
       <description>&lt;p&gt;LP 的婚礼结束, 半夜回到酒店，醉意如巴厘岛的海水般漫过脚踝, 让我走不成直线。从房间外的平台到室内的洗手间不过三道门，我却次次推错方向。满溢的思绪撑着我没倒下，然后我就像十多年前住 VHall 宿舍时那样，坐在屋外木桌旁，敲起了日志。&lt;/p&gt;</description>
     </item>
   </channel>

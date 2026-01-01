@@ -33,6 +33,21 @@ enableGitInfo = true # 若仓库是 git，会用于显示更新时间
   mainSections = ["posts"]
   comments = true
 
+# Giscus comments (GitHub Discussions)
+# 1) 先在 GitHub 开启 Discussions，并安装 giscus app
+# 2) 打开 https://giscus.app/ 生成下方参数并填入 repoId/categoryId
+[params.giscus]
+  repo = "MinghuanCao/minghuanblog"
+  repoId = "R_kgDOQRSLyg"          # e.g. "R_kgDO..."
+  category = "General"  # 你在 Discussions 里选的分类
+  categoryId = "DIC_kwDOQRSLys4C0c7Q"      # e.g. "DIC_kwDO..."
+  mapping = "pathname"
+  reactionsEnabled = "1"
+  emitMetadata = "0"
+  inputPosition = "bottom"
+  theme = "preferred_color_scheme"
+  lang = "zh-CN"
+  crossorigin = "anonymous"
 [params.assets]
   favicon = "favicon.ico"
 
